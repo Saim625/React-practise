@@ -1,0 +1,33 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "This is React-App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saim625/React-practise.git"
+  },
+  "keywords": [],
+  "author": "Saim Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saim625/React-practise/issues"
+  },
+  "homepage": "https://github.com/Saim625/React-practise#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
